@@ -65,9 +65,9 @@ keyboard.keymap = [
       #         NUMPAD
       KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,    KC.NO,    KC.NO,   KC.NO,
       KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.N7,   KC.N8,    KC.N9,    KC.NO,   KC.NO,
-      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.N4,   KC.N5,    KC.N6,    KC.NO,   KC.NO,
-      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.N1,   KC.N2,    KC.N3,    KC.NO,   KC.NO,
-      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.TRNS, KC.NO,   KC.NO,   KC.NO,   KC.NO,   KC.N0,    KC.NO,    KC.NO,   KC.NO,
+      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.TRNS, KC.NO,   KC.NO,   KC.N4,   KC.N5,    KC.N6,    KC.NO,   KC.NO,
+      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.NO,   KC.TRNS, KC.NO,   KC.NO,   KC.N1,   KC.N2,    KC.N3,    KC.NO,   KC.NO,
+      KC.NO,    KC.NO,     KC.NO,     KC.NO,   KC.NO,   KC.TRNS, KC.TRNS, KC.NO,   KC.NO,   KC.TRNS, KC.N0,    KC.NO,    KC.NO,   KC.NO,
   ],
   [
       #         ARROWS
